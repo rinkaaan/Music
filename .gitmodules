@@ -1,0 +1,3 @@
+[submodule "MusicApi"]
+	path = MusicApi
+	url = git@github.com:rinkaaan/MusicApi.git
